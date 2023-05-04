@@ -3,7 +3,7 @@
 
 ---
 name: terra_pinyin.add
-version: "20230105"
+version: "20230504"
 sort: agn
 # 導入預設詞彙
 use_preset_vocabulary: true
@@ -17,9 +17,10 @@ import_tables:
 熟悉	shou2 xi1
 拖曳	tuo1 yi4
 曳	yi4
-識	shì4
+識	shi4
 認識	ren3 shi4
 夕	xi4
 妮	ni2
 柏	bo2
 扁食 bian3 shi2
+胺	an1
