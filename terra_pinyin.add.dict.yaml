@@ -3,7 +3,7 @@
 
 ---
 name: terra_pinyin.add
-version: "20230510"
+version: "20230511"
 sort: agn
 # 導入預設詞彙
 use_preset_vocabulary: true
@@ -27,3 +27,9 @@ import_tables:
 鄂圖曼	e4 tu2 man4
 馬木路克	ma3 mu4 lu4 ke4
 白羅斯	bai2 luo4 si1
+貝子廟	bei4 zi3 miao4
+克魯倫	ke4 lu3 lun2
+海蘭泡	hai3 lan2 pao4
+突	tu2
+凸	tu2
+凸	gu3
