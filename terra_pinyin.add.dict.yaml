@@ -3,7 +3,7 @@
 
 ---
 name: terra_pinyin.add
-version: "20230504"
+version: "20230510"
 sort: agn
 # 導入預設詞彙
 use_preset_vocabulary: true
@@ -13,14 +13,31 @@ import_tables:
 ...
 
 # 自定義的字詞
+#夾	jia2
 期	qi2
 熟悉	shou2 xi1
+#…	ou ou ou
+#──	er er
+#嗎	ma1
+#嬤	ma4
+#癌	yan2
+#壁癌	bi4 yan2
+#砲	pao4
+#擲	zhi2
 拖曳	tuo1 yi4
 曳	yi4
+#淑	shu2
+#質	zhi2
 識	shi4
 認識	ren3 shi4
+#亞	ya3
+#企	qi4
 夕	xi4
+#嚨	long2
 妮	ni2
 柏	bo2
 扁食 bian3 shi2
 胺	an1
+鄂圖曼	e4 tu2 man4
+馬木路克	ma3 mu4 lu4 ke4
+白羅斯	bai2 luo4 si1
