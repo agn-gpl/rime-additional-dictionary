@@ -3,7 +3,7 @@
 
 ---
 name: terra_pinyin.add
-version: "20230511"
+version: "20230828"
 sort: agn
 # 導入預設詞彙
 use_preset_vocabulary: true
@@ -33,3 +33,5 @@ import_tables:
 突	tu2
 凸	tu2
 凸	gu3
+安瓿 an1 pou3
+桌遊 zhuo1 you2
